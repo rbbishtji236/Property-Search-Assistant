@@ -1,0 +1,8 @@
+pandas
+streamlit
+python-dotenv
+requests
+langchain-huggingface
+langchain
+huggingface-hub
+pydantic
